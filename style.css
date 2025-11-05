@@ -1,0 +1,21 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+
+#clientes-table {
+  
+  margin-top: 25px;
+  
+  border-radius: 8px;
+  overflow: hidden;
+  
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  
+}
+
+
+.tabulator .tabulator-row {
+  font-size: 0.95rem;
+}

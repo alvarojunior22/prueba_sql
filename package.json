@@ -12,9 +12,11 @@
     "vite": "^7.1.2"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "csv-parser": "^3.2.0",
     "express": "^5.1.0",
     "mysql2": "^3.14.3",
-    "parser-csv": "^0.2.0"
+    "parser-csv": "^0.2.0",
+    "tabulator-tables": "^6.3.1"
   }
 }
